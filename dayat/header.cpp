@@ -1,14 +1,4 @@
 #include <iostream>
-// #include <>
-using namespace std;
-int main(){
-      int b = 0;
-
-      int a = 10;
-}
-
-
-      #include <iostream>
 using namespace std;
 int main(){
       for(int a = 1;a <=10;a++){
@@ -18,4 +8,3 @@ int main(){
             cout<<endl;
       }
 }
-
