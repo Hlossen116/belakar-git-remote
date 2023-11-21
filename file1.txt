@@ -1,1 +1,1 @@
-rebase baru
+rebase baru squash

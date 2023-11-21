@@ -1,1 +1,1 @@
-version rebase 1
+version rebase squash
